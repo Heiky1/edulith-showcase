@@ -51,6 +51,12 @@ This repository is a showcase. The production source code is private.
   </tr>
 </table>
 
+### Desktop app
+
+The Electron desktop app, with its own title bar showing the account, plan and remaining uses.
+
+<p align="center"><img src="screenshots/desktop-app.png" width="760"></p>
+
 ## What I built
 
 - **Mobile app** in React Native and Expo for iOS and Android.
