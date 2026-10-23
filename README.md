@@ -36,6 +36,19 @@ This repository is a showcase. The production source code is private.
 <p align="center"><img src="screenshots/website-home.png" width="700"></p>
 <p align="center"><img src="screenshots/website-about.png" width="700"></p>
 
+### Web app
+
+<table>
+  <tr>
+    <td align="center"><img src="screenshots/webapp-solver.png" width="380"><br>Solver</td>
+    <td align="center"><img src="screenshots/webapp-calculator.png" width="380"><br>Calculator with math keyboard</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="screenshots/webapp-chat.png" width="380"><br>AI chat</td>
+    <td align="center"><img src="screenshots/webapp-images.png" width="380"><br>Image generation</td>
+  </tr>
+</table>
+
 ## What I built
 
 - **Mobile app** in React Native and Expo for iOS and Android.
