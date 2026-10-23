@@ -6,7 +6,7 @@
 
 Edulith is an AI study platform I designed, built and ran on my own from November 2024 to October 2026. It combines a step by step math solver, a calculator with a math keyboard, AI chat, flashcards, image generation and a shared library of study material. It runs as a mobile app (iOS and Android), a web app and a desktop app, all backed by one API.
 
-> **Last updated: June 2026.** Latest development push 11 June 2026, latest changelog version 1.0.6. The project was active from November 2024 and was wound down in October 2026.
+> **Last worked on: June 2026.** Active development ran from November 2024 to June 2026 (last development push 11 June 2026, version 1.0.6). The business was wound down in October 2026.
 
 This repository is a showcase. The production source code is private.
 
